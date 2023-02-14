@@ -1,0 +1,1 @@
+const myUtility = 'Inside utility file'
